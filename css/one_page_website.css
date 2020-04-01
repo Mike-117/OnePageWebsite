@@ -29,6 +29,10 @@ input {
     width: 15%;
 }
 
+.thumbnail {
+    margin-left: 10%;
+}
+
 .modal {
     display: none;
     position: fixed;
